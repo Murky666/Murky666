@@ -60,7 +60,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/Murky666/Murky666/blob/main/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Murky666/Murky666/main/snake.yml" alt="Snake animation" />
 
 ###
 
